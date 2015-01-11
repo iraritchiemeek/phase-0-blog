@@ -1,0 +1,64 @@
+h1{
+ text-align: center;
+ font-size: 80px;
+ margin-top: 0px;
+ margin-bottom: 10px;
+ font-family: myriad pro;
+}
+h2{
+ text-align: center;
+ word-spacing: 45px;
+}
+#content {
+ text-align: left;
+ margin-right:200px;
+ margin-left: 200px;
+ border-bottom: solid 2px #D3D3D3;
+ font-family: verdana,helvetica,arial,sans-serif;
+}
+#footer {
+ text-align: center;
+ word-spacing: 100px;
+ bottom:0px;
+ margin-top: 50px
+
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+  font-family: verdana,helvetica,arial,sans-serif;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+#logo:hover {
+  border-radius: 50%;
+  border: solid 1px black;
+}
+
+
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height:100%;
+}
+
+#logo {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding:4px;
+  width: 50px;
+  height: 50px;
+}
+
+img {
+  width: 10%;
+  height: 10%;
+  float: right;
+  margin: 5px;
+}
